@@ -1,0 +1,30 @@
+***
+
+"Welcome to nightmare on campus"
+
+There is no shotcut to finish this game because I make sure that everytime you launch the game,
+
+All the papers that you need to find to uunlock the hiiden room, are in a different piece.
+
+But the thing that I can tell you is that :
+
+All the word or letter that you will find on those papers are listing to the left of the arrow,
+
+and the decoding of the word or letter with the cesar number 3 is to the right of the arrow
+
+s -> p
+b -> y
+w -> t
+k -> h
+d -> a
+j -> g
+r -> o
+u -> r
+h -> e
+cesar
+3
+
+	END***
+
+
+
